@@ -36,10 +36,9 @@ Sub 404 uses subdomains list from text file and checks for url of <b>404 Not Fou
 ## Note:
 <b>This tool is mostly tested in linux but should works on other OS too.</b>
 ## Usage options:
-```
 
  * <img src="https://github.com/DesTroTN/Sub404/blob/master/404.png">
-
+```
 $ python3 sub404.py -h
 ```
 This will display help for the tool. Here are all the switches it supports.
@@ -57,6 +56,6 @@ This will display help for the tool. Here are all the switches it supports.
 This tool fetches CNAME of 404 response code URL and removes all URL which have target domain in CNAME. So chances of false positives are high.
 ```
 
-## My Instagram:
+## My FACEBOOK:
 <b>Say Hello [DesTroTN](https://www.facebook.com/DesTroTN/)
 
