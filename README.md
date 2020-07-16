@@ -38,7 +38,7 @@ Sub 404 uses subdomains list from text file and checks for url of <b>404 Not Fou
 ## Usage options:
 ```
 
- * <img src="sc/xss.png">
+ * <img src="https://github.com/DesTroTN/Sub404/blob/master/404.png">
 
 $ python3 sub404.py -h
 ```
@@ -58,5 +58,5 @@ This tool fetches CNAME of 404 response code URL and removes all URL which have 
 ```
 
 ## My Instagram:
-<b>Say Hello [r3curs1v3_pr0xy](https://www.instagram.com/r3curs1v3_pr0xy/)
+<b>Say Hello [DesTroTN](https://www.facebook.com/DesTroTN/)
 
